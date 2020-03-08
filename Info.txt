@@ -1,0 +1,2 @@
+Hello new user! This is git package manager program for opencomputers. In futer you will be can put here your programs.
+But now you only can download my programms. Wait for updates!!!
